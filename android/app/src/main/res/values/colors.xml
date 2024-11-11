@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Main Background Color for Chat Screen -->
+    <color name="revechatsdk_layout_bg">#FFFFFF</color>
+
+    <!-- Button Colors -->
+    <color name="revechatsdk_btn_text">#000000</color> <!-- Text color for buttons -->
+    <color name="revechatsdk_btn_bg">#007BFF</color> <!-- Background color for buttons -->
+
+    <!-- Chat Screen Colors -->
+    <color name="revechatsdk_color_chat_background">#F5F5F5</color>
+    <color name="revechatsdk_color_sending_msg_bg">#E0E0E0</color> <!-- User message background -->
+    <color name="revechatsdk_color_receiving_msg_bg">#000000</color> <!-- Agent message background -->
+    <color name="revechatsdk_shape_date_bubble_bg">#CCCCCC</color> <!-- Date bubble background color -->
+</resources>
